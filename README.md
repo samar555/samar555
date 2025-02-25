@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<img align="right" padding="25" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZuMzdrZWZoenkzcWl2djRlNTZ5ZWt0cm5tN2toamozMGU4bXFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAGIvCiwPJn5C/giphy.gif"/>
+<img align="right" padding="15" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZuMzdrZWZoenkzcWl2djRlNTZ5ZWt0cm5tN2toamozMGU4bXFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAGIvCiwPJn5C/giphy.gif"/>
 <p align="left">I'm sachin mishra and  i live in delhi<br><br>- 🔭 I’m working as a software developer<br>- 📚 I'm currently learning android development<br>- ⚡ In my free time I am watching universe documentry</p>
 
 ###
