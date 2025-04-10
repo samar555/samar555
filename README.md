@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/sachin-mishra-java/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="sachinmishra9218@gmail.com" target="_blank">
+  <a href="https://mail.google.com/sachinmishra9218@gmail.com/?view=cm&fs=1&to=recipient@example.com&su=Subject+Text&body=Hello+world
+" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
 </div>
